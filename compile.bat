@@ -1,0 +1,1 @@
+gcc multifile_main.c multifile_func.c -o multifile_program
