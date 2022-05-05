@@ -16,3 +16,14 @@ Compilation command
 Linker :
  Static libraries - a set of object files that are copied into a single file
  Shared libraries
+
+ ld 
+ -Map - generate the linker map
+
+ archiever(ar)
+
+ar rcs library_name.a object1.o object2.o 
+ar - arhiver program 
+r - flag for inserting symbols
+c - flag for creating a new arhive 
+s - flag for writing an index
