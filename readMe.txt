@@ -27,3 +27,5 @@ ar - arhiver program
 r - flag for inserting symbols
 c - flag for creating a new arhive 
 s - flag for writing an index
+
+Linking object filer into a shared library
