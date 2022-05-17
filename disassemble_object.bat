@@ -1,0 +1,1 @@
+objdump --disassemble output/libmultifile_func.a

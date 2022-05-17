@@ -1,0 +1,1 @@
+nm output/libmultifile_func.a
