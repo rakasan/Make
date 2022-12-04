@@ -29,3 +29,15 @@ c - flag for creating a new arhive
 s - flag for writing an index
 
 Linking object filer into a shared library
+
+
+/************************************************************************/
+2022.12.04 - Restart the course in order to use WSL. All the current progress will be moved in arhive
+
+issue with installing gcc : The command sudo apt install gcc make leads to an error. In order to fix it :
+
+sudo apt-get update && sudo apt-get update -y
+sudo apt autoremove -y
+sudo apt-get install gcc -y
+
+cc - default compiler for the operating system
