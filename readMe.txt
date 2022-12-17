@@ -41,3 +41,8 @@ sudo apt autoremove -y
 sudo apt-get install gcc -y
 
 cc - default compiler for the operating system
+
+-o output control
+
+in order to move a file : mv file destination
+in order to remove a file : rm file
