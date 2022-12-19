@@ -46,3 +46,15 @@ cc - default compiler for the operating system
 
 in order to move a file : mv file destination
 in order to remove a file : rm file
+
+Output format flags : 
+ -c compile, assamble but do not link 
+ -S compile, but do not assemble
+ -E stop after preprocessing
+ -V show the full commands
+
+ Linker : 
+    Libraries :
+         - static libraries
+         - shared libraries / dynamic
+         They need to be created using the format lib[name].[extension]

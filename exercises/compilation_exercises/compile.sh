@@ -1,0 +1,1 @@
+cc single_test.c -S -o single_test
