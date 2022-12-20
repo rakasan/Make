@@ -7,5 +7,6 @@
 #Added the -I for signalizing where the include folder is 
 #added -Oz for debugging experience
 #added the -std=c99, for setting the standard
+# in order to use a linker script, a -T argument needs to be used
 
 cc src/multifile_main.c src/lib/multifile_func.c -I include -std=c99 -Og -o output/multifile_program_distributed
